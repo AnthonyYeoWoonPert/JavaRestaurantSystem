@@ -1,0 +1,5 @@
+1, burger, 15.99, 49
+2, fried chicken, 89.99, 24
+3, cake, 29.99, 73
+4, pepsi, 35.99, 30
+5, seven up, 49.99, 19

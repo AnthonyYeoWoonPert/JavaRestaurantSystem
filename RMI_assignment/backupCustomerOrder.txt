@@ -1,0 +1,4 @@
+1, q12345678, qweqwe, 5, seven up, [49.99], [1], 1, [49.99], 49.99, 500.00, Credit Card, 2023/12/09, YES, PREPARING
+2, q12345678, qweqwe, 1, burger, [15.99], [1], 1, [15.99], 15.99, 100.00, Credit Card, 2023/12/09, YES, PREPARING
+3, q12345678, qweqwe, 3, cake, [29.99], [1], 1, [29.99], 29.99, 100.00, Credit Card, 2023/12/09, YES, PREPARING
+4, q12345678, qweqweqwe, 2, fried chicken, [89.99], [1], 1, [89.99], 89.99, 790.00, Touch N Go, 2023/12/09, YES, PREPARING

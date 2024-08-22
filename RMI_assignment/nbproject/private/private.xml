@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/CustomerInvoice.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/RegistrationForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/Order.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/User.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Enum/Role.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/Cart.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/RMIconnections/Register.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/RMIconnections/Interface.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/Item.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/RMIconnections/Server.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/AdminCRUDForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/CalculateTax.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/utils/DerbyDB.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/EditProfile.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/LoginForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/utils/Hasher.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/RMIconnections/Client.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/AdminMainMenuForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Main/App.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/Class/utils/Auth.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/CustomerPlaceOrderForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/AdminManageOrder.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/CustomerCartForm.java</file>
+            <file>file:/C:/Users/User/Downloads/RMI_assignment/src/UserInterface/AdminGenerateReport.java</file>
+        </group>
+    </open-files>
+</project-private>
